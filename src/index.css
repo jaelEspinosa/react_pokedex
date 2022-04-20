@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+@font-face {
+  font-family: poke;
+  src: url('./fonts/Pokemon_Solid.ttf');
+}
+
+@font-face {
+  font-family: digital;
+  src: url('./fonts/DS-DIGIT.TTF');
+}
